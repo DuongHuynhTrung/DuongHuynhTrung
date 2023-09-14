@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone 👋, I'm Huỳnh Trùng Dương</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/DuongHuynhTrung/DuongHuynhTrung/main/Banner.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/DuongHuynhTrung/DuongHuynhTrung/main/Banner.jpg"> </div>
 <h3 align="center">A passionate backend developer from VietNam. Friendly, Honest and Patient!</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
